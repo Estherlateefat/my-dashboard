@@ -70,4 +70,4 @@ This application helps students manage their courses, track progress, and stay o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Estherlateefat/student-dashboard.git
+git clone https://github.com/Estherlateefat/my-dashboard.git
