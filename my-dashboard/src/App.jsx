@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
- import Header from "./component/Header";
-import StatsCard from "./component/StatsCard";
-import CourseCard from "./component/CourseCard";
- import AddCourse from "./component/AddCourse";
+import Header from "./components/Header";
+import StatsCard from "./components/StatsCard";
+import CourseCard from "./components/CourseCard";
+import AddCourse from "./components/AddCourse";
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
