@@ -80,12 +80,7 @@ function App() {
 
      <div className={darkMode ? "dark" : ""}>
       <div className="min-h-screen bg-gray-100 dark:bg-gray-900 p-6">
-         <div><strong>STUDENT DETAILS</strong>
-    <p><strong>NAME:</strong>SUARA LATEEFAT ESTHER</p>
-    <p><strong>DEPARTMENT:</strong>FRONTEND DEVELOPMENT</p>
-    <p><strong>MATRIC N0:</strong>JAD/TA/25A/FD/001</p>
-    <p><strong>FINAL PROJECT</strong></p>
-</div> 
+         
         <Header darkMode={darkMode} setDarkMode={setDarkMode} />
 
          <AddCourse addCourse={addCourse} />
